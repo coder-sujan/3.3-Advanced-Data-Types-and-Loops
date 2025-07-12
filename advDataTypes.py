@@ -120,7 +120,7 @@ print('Removed Colors List: ', numbers_of_list)
 
 names = ['jack', 'Amy', 'John']
 
-print('Total Elements: ', len(names))
+# print('Total Elements: ', len(names))
 
 
 
